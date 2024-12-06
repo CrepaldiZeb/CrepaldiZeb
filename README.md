@@ -41,7 +41,6 @@ Sou um entusiasta de tecnologia com experiência em uma ampla gama de linguagens
 
 ---
 
-## 📈 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrepaldiZeb&layout=compact&theme=dark)
 
