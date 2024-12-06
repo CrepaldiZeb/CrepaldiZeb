@@ -43,13 +43,7 @@ Sou um entusiasta de tecnologia com experiência em uma ampla gama de linguagens
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioCrepaldi&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCrepaldi&layout=compact&theme=radical" alt="Linguagens mais usadas" width="50%"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrepaldiZeb&layout=compact&theme=dark)
 
 ---
 
