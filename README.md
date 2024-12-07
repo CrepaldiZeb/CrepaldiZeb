@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Antonio Crepaldi
 
-🎓 **Estudante de Engenharia de Computação**  
+🎓 **Estudante de Engenharia de Computação**   
 🌟 Apaixonado por **Visão Computacional**, **LLMs (Large Language Models)** e tecnologias de ponta.
 
 ---
