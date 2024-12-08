@@ -49,7 +49,3 @@ Sou um entusiasta de tecnologia com experiência em uma ampla gama de linguagens
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/antonio-crepaldi-45959b18b/)
 
-
----
-
-⭐ **"Sempre em busca de aprender algo novo e criar soluções inovadoras!"**
